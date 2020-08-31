@@ -1,0 +1,2 @@
+# ChocolateyPackageUpdater
+Windows起動時に自動的にchocolateyの各パッケージをupdate
